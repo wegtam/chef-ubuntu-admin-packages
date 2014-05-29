@@ -17,7 +17,7 @@
 # limitations under the License.
 #
 
-default['admin_packages']['base'] = %w(arj htop mc ncdu p7zip-full unzip wget zip)
+default['admin_packages']['base'] = %w(arj htop iptraf mc ncdu p7zip-full unzip wget zip)
 default['admin_packages']['additional'] = %w(antiword curl elinks genisoimage growisofs imagemagick lftp odt2txt)
 
 default['admin_packages']['install_additional'] = true
