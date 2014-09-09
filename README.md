@@ -1,5 +1,7 @@
 # Ubuntu Admin Packages Cookbook
 
+[![Apache License 2.0](http://img.shields.io/badge/license-apache%202.0-green.svg)](http://opensource.org/licenses/Apache-2.0)
+
 This cookbook installs several packages that can come in handy if you're
 a system administrator on an ubuntu system.
 
